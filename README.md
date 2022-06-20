@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodedRami
-- 👀 I’m interested in wed development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on anything that would help improve my coding skills
 - 📫 How to reach me ramiibnamin@gmail.com
