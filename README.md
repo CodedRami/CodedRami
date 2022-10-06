@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CodedRami
-- 👀 I’m interested in web development
-- 
-knowlegde in html and CSS,
+- 👀 FrontEnd web developer with knowlegde in html and CSS 
 - 🌱 I’m currently javascript
 - 💞️ I’m looking to collaborate on anything that would help improve my coding skills
 - 📫 How to reach me ramiibnamin@gmail.com
